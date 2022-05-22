@@ -1,31 +1,61 @@
-# Learn Go Programming
-- freeCodeCamp Course - https://www.classcentral.com/course/freecodecamp-learn-go-programming-golang-tutorial-for-beginners-57852/classroom
+# Book: The Go Programming Language
+
+Examples: [gopl.io](gopl.io)
 
 ---
 
-## To Do
+## Chapters
 
-- Part 1 / Introduction
-- Part 2 / Setting Up a Development Environment
-- Part 3 / Variables
-- Part 4 / Primitives
-- Part 5 / Constants
-- Part 6 / Arrays and Slices
-- Part 7 / Maps and Structs
-- Part 8 / If and Switch Statements
-- Part 9 / Looping
-- Part 10 / Defer, Panic, and Recover
-- Part 11 / Pointers
-- Part 12 / Functions
-- Part 13 / Interfaces
-- Part 14 / Goroutines
-- Part 15 / Channels
+### 1. **WIP**
 
----
+TBD
 
-## Commands
+### 2. 
 
-- `go run <main.go>`
-- `go build <main.go>`
+TBD
+
+### 3. 
+
+TBD
+
+### 4. 
+
+TBD
+
+### 5. 
+
+TBD
+
+### 6. 
+
+TBD
+
+### 7. 
+
+TBD
+
+### 8. 
+
+TBD
+
+### 9. 
+
+TBD
+
+### 10. 
+
+TBD
+
+### 11. 
+
+TBD
+
+### 12. 
+
+TBD
+
+### 13. 
+
+TBD
 
 ---
