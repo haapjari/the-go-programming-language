@@ -6,7 +6,7 @@ Examples: [gopl.io](gopl.io)
 
 ## Chapters
 
-### 1. **WIP**
+### 1. **WIP: 1.3**
 
 TBD
 
